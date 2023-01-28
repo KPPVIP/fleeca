@@ -1,0 +1,5 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+('drill', 'Perceuse', 1, 0, 1),
+('bag', 'Sac', 1, 0, 1),
+('diamond', 'Diamant', 1, 0, 1),
+('gold', 'Or', 1, 0, 1);
